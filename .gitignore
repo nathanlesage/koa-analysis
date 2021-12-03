@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.ipynb_checkpoints
+
+# Contains the raw files (PDFs and extracted text)
+raw
+.DS_Store
