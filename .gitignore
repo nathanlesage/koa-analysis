@@ -3,5 +3,6 @@ __pycache__
 .ipynb_checkpoints
 
 # Contains the raw files (PDFs and extracted text)
-raw
+raw/*.pdf
+raw/*.txt
 .DS_Store
